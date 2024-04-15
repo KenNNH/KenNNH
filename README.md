@@ -2,10 +2,10 @@
 <div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nhat+Huy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer Full-Stack</h3>
+<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
 
 <br/>
 
@@ -45,9 +45,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,SQL Server" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,next JS,javascript,typescript,.Net,CS,php,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mysql,html,css,sass,tailwind,vscode,figma,canvas,ps,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,cs,cpp,php" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,dotnet,javascript,typescript,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,mysql,html,css,sass,tailwind,vscode,figma,py,ps,git" />
 </div>
   <br/><br/><br/>
 <hr/>
@@ -77,4 +77,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
