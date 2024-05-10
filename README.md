@@ -23,10 +23,10 @@
   <a href="mailto:tintran11.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+  <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-995056287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
+  <a href="https://nhathuynguyen.w3spaces.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
